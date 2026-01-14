@@ -1,0 +1,18 @@
+Insider Threat - Digital Forensic Investigation 1: The IT Worker 
+
+Skill Level: Low-Medium 
+Insider Threat Investigation Lab: Financial Data Exfiltration Scenario
+Lab Overview
+This laboratory environment simulates a realistic insider threat investigation involving a compromised Windows 10 workstation belonging to an IT employee at a financial institution. The scenario contains staged forensic artifacts documenting suspicious behavioral activity, data theft preparation, exfiltration activities, and other nefarious activities. Investigators will employ digital forensic methodologies to reconstruct the timeline of malicious activities and identify pieces of artifacts based on the questions below.
+This is a beginners lab where knowledge of the important windows directories and forensic artifacts will assist with completion. 
+Scenario Background
+Subject Profile:
+Role: IT Specialist, Infrastructure Team
+Tenure: 6 months
+Access Level: Elevated privileges for system administration
+Security Clearance: Access to sensitive corporate systems and client data
+Behavioral Context:
+Over six months, workplace dissatisfaction progressively escalated from professional disappointment to active malicious intent. Initial indicators included:
+Declining engagement with assigned projects
+Increased isolation from team members
+Extended after-hours system access outside normal work patterns
